@@ -1,5 +1,5 @@
 # climas-weather
-La aplicación tiene la finalidad de mostrar el Clima, pidiendo al usuario la ciudad, y el código del país por ejemplo(Pe, Ru, Cl, Co, Ar)
+The application has the purpose of showing the Weather, asking the user the city, and the country code for example (Pe, Ru, Cl, Co, Ar)
 
 Aplicación: 
 
